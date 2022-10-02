@@ -1,5 +1,6 @@
 import React = require('react');
 import { useParams } from 'react-router-dom';
+import { productData } from './data';
 
 export const ProductDetails = () => {
   const { id } = useParams();

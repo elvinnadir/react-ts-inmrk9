@@ -5,7 +5,6 @@ const productData = [
     marka: 'Lenovo',
     model: 'Yoga 930',
     price: 180,
-    img:""
   },
   {
     key: '2'
