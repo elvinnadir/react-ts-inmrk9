@@ -1,3 +1,1 @@
-# react-ts-inmrk9
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-inmrk9)
+REACT TS NAVBAR PAGE FILTERED PRODUCTS...SOMETHING IS WRONG data.ts or anywhere
